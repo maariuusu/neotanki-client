@@ -1,0 +1,4 @@
+# Ignore push
+config.xml3
+backups/
+librarybak/
