@@ -1,7 +1,7 @@
 <cfg xmlns="http://alternativaplatform.com/core/config.xsd">
-<server address="127.0.0.1">
+<server address="77.90.51.232">
 	<port>2351</port>
 </server>
-<resources>http://127.0.0.1:8080/</resources>
+<resources>http://77.90.51.232:8080/</resources>
 <status>available</status>
 </cfg>
